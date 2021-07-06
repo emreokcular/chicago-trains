@@ -22,6 +22,10 @@ Dataset is downloaded from https://data.cityofchicago.org/Transportation/CTA-Rid
 
 ## Notebook
 
+To run the notebook in your local, you should run below command and install all required packages from requirement.txt which is located in the same folder.
+
+```pip install -r requirements.txt```
+
 **https://github.com/emreokcular/chicago-trains/blob/main/chicago-train.ipynb**
 
 ## Summary
