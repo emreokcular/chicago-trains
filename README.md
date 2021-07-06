@@ -22,7 +22,9 @@ Dataset is downloaded from https://data.cityofchicago.org/Transportation/CTA-Rid
 
 ## Notebook
 
-**You can view the notebook with this link : https://nbviewer.jupyter.org/github/emreokcular/chicago-trains/blob/main/chicago-train.ipynb**
+**You can view the notebook with this link :**
+
+**https://nbviewer.jupyter.org/github/emreokcular/chicago-trains/blob/main/chicago-train.ipynb**
 
 **Colab**
 **Deepnote**
