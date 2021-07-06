@@ -19,6 +19,7 @@ Dataset is downloaded from https://data.cityofchicago.org/Transportation/CTA-Rid
 * ```l_map.png``` : L Train Map
 * ```population_density.png``` : Chicago Population Density Map
 * ```ridershipreadme.txt``` : Readme file for the dataset
+* ```requirements.txt``` : Python packages used in the notebook
 
 ## Notebook
 
