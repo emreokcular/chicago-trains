@@ -22,13 +22,8 @@ Dataset is downloaded from https://data.cityofchicago.org/Transportation/CTA-Rid
 
 ## Notebook
 
-**You can view the notebook with this link :**
-
-**https://nbviewer.jupyter.org/github/emreokcular/chicago-trains/blob/main/chicago-train.ipynb**
-
-**Colab**
-**Deepnote**
+**https://github.com/emreokcular/chicago-trains/blob/main/chicago-train.ipynb**
 
 ## Summary
 
-...
+In this project, Chicago L Train Ridership data is analyzed. The dataset from 2001 to 2021 loaded and explored to extract characteristics and key findings. Lessons learned from data can be found in the notebook. Different type of forescasting models were built for the transportation department to improve service by forecasting the daily rides in the next few years. The final model were selected by evaluating model performance and considering production usage.
