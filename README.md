@@ -1,2 +1,17 @@
-# chicago-trains
-Chicago Ridership - Daily L Station Entries
+# Chicago Ridership - Daily L Station Entries
+
+## About Me
+
+I am Emre Okcular, a data science intern at [Dictionary.com](https://www.dictionary.com/) Currently pursuing [Master of Science in Data Science](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) at University of San Francisco.
+
+## Project Goal
+
+The main project of this project is to understand what are the characteristics of the data and to reveal key findings. In addition, various regressor and time series models were built for forecasting the daily rides for the transportation department to improve service in the next few years.
+
+## Dataset
+
+Dataset is downloaded from https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f.
+
+## Summary
+
+...
