@@ -12,6 +12,16 @@ The main project of this project is to understand what are the characteristics o
 
 Dataset is downloaded from https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f.
 
+## Files
+
+* ```CTA_-_Ridership_-__L__Station_Entries_-_Daily_Totals.csv``` : Raw Dataset
+* ```chicago-train.ipynb``` : Main notebook
+* ```l_map.png``` : L Train Map
+* ```population_density.png``` : Chicago Population Density Map
+* ```ridershipreadme.txt``` : Readme file for the dataset
+
+**You can view the notebook with this link : https://nbviewer.jupyter.org/github/emreokcular/chicago-trains/blob/main/chicago-train.ipynb**
+
 ## Summary
 
 ...
