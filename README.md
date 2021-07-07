@@ -6,11 +6,11 @@ I am Emre Okcular, a data science intern at [Dictionary.com](https://www.diction
 
 ## Project Goal
 
-The main project of this project is to understand what are the characteristics of the data and to reveal key findings. In addition, various regressor and time series models were built for forecasting the daily rides for the transportation department to improve service in the next few years.
+The main project of this project is to understand what are the characteristics of the data and to reveal key findings. In addition, various regressors and time series models were built for forecasting the daily rides for the transportation department to improve service in the next few years.
 
 ## Dataset
 
-Dataset is downloaded from https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f.
+The dataset is downloaded from https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f.
 
 ## Files
 
@@ -28,6 +28,10 @@ To run the notebook in your local, you should run below command and install all 
 ```pip install -r requirements.txt```
 
 **https://github.com/emreokcular/chicago-trains/blob/main/chicago-train.ipynb**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emreokcular/chicago-trains/blob/main/chicago-train.ipynb)
+
+[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/project/chicago-trains-Sppg_Kd4TbqyAiHfbe8M8A) 
 
 ## Summary
 
