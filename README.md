@@ -29,9 +29,11 @@ To run the notebook in your local, you should run below command and install all 
 
 **https://github.com/emreokcular/chicago-trains/blob/main/chicago-train.ipynb**
 
+**https://nbviewer.jupyter.org/github/emreokcular/chicago-trains/blob/main/chicago-train.ipynb?flush_cache=true**
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emreokcular/chicago-trains/blob/main/chicago-train.ipynb)
 
-[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/project/chicago-trains-Sppg_Kd4TbqyAiHfbe8M8A) 
+[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/project/chicago-trains-Sppg_Kd4TbqyAiHfbe8M8A/%2Fchicago-trains%2Fchicago-train.ipynb) 
 
 ## Summary
 
