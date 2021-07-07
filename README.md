@@ -27,8 +27,10 @@ To run the notebook in your local, you should run below command and install all 
 
 ```pip install -r requirements.txt```
 
+**Main Notebook File:**
 **https://github.com/emreokcular/chicago-trains/blob/main/chicago-train.ipynb**
 
+**NB Viewer:**
 **https://nbviewer.jupyter.org/github/emreokcular/chicago-trains/blob/main/chicago-train.ipynb?flush_cache=true**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emreokcular/chicago-trains/blob/main/chicago-train.ipynb)
